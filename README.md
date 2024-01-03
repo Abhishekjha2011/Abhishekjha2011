@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Jha</h1>
-<h3 align="center">A CSE Student from India</h3>
+<h3 align="center">A CSE Student from Lovely Professional University, India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -18,7 +18,7 @@
 <a href="https://twitter.com/yourabhishekjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourabhishekjha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-jha-20771013b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-jha-20771013b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhishekjha20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhishekjha20" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100017109493285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100017109493285" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100017109493285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100017109493285" height="30" width="40" /></a>
 <a href="https://instagram.com/jhaji04/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhaji04/?hl=en" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@abhishekjha3345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abhishekjha3345" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sjha20112001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sjha20112001" height="30" width="40" /></a>
