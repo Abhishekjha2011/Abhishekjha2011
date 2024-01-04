@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Jha</h1>
-<h3 align="center">A Computer Science Engineer Student from  Lovely Professional university , India</h3>
+<h3 align="center">A Computer Science Engineer Student from  Lovely Professional University, India </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -25,18 +25,11 @@
 
 <h3 align="left"> 🌐 Let's Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yourabhishekjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourabhishekjha" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/abhishek-jha-20771013b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://kaggle.com/abhishekjha20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhishekjha20" height="30" width="40" /></a>
  <a href="https://instagram.com/jhaji04"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
  <a href="https://youtube.com/@abhishekjha3345"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 <a href="https://www.codechef.com/users/sjha20112001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sjha20112001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishekkumar_j2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekkumar_j2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishekjha2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekjha2011" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/abhishek12875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abhishek12875" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sjha2011hxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sjha2011hxc" height="30" width="40" /></a>
-<a href="https://discord.gg/abhishekkumarjha_74219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhishekkumarjha_74219" height="30" width="40" /></a>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
