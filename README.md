@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Python ,Kotlin**
 
-- 📫 How to reach me **Sjha20112001@gmail.com**
+- 📫 Reach me **Sjha20112001@gmail.com**
 
 <div align="left">
  
