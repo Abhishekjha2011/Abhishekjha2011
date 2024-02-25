@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Jha</h1>
+<h1 align="center">Hi 👋, Welcome To My Github Id 🙏 </h1>
 <h3 align="center">A Computer Science Engineer Student from  Lovely Professional University, India </h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=My+name+is+AbhishekKumarJha)](https://git.io/typing-svg)
+
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
